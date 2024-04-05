@@ -12,6 +12,7 @@ One of the key features of this admin dashboard is its impressive data visualiza
 <p align="center">
 <img width="600" alt="Screenshot 2024-04-05 at 10 00 35 PM" src="https://github.com/aahalani/admindashboard/assets/29179250/26a0ac3b-b6dd-4162-9ab4-9d8816b509f1">
 </p>
+
 ## 🚀 Features
 
 The admin dashboard boasts a range of essential features to streamline data management and enhance productivity:
