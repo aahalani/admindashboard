@@ -56,8 +56,7 @@ Contributions to the admin dashboard project are welcome! If you'd like to contr
 
 If you have any questions, suggestions, or feedback regarding the admin dashboard project, please feel free to reach out:
 
-- Email: your-email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- Email: aahalani@gmail.com
+- LinkedIn: [Avval Halani](https://www.linkedin.com/in/avval-halani-22906321b/)
 
 Thank you for your interest in the Admin Dashboard project! We look forward to your contributions and feedback.
