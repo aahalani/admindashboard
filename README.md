@@ -17,17 +17,11 @@ One of the key features of this admin dashboard is its impressive data visualiza
 
 The admin dashboard boasts a range of essential features to streamline data management and enhance productivity:
 
-- **Main Dashboard**: The heart of the application, providing an overview of key metrics, recent activities, and important updates.
+- **Main Dashboard**: The heart of the application, providing an overview of key metrics, and various different charts.
 - **User Profile**: A dedicated page for managing user information, preferences, and settings.
 - **Data Tables**: Interactive and sortable tables to efficiently display and manipulate large datasets.
 - **Pricing Page**: A beautifully designed page showcasing different pricing plans and options.
-- **Secure Login**: A robust and secure login system to protect sensitive data and ensure authorized access.
-
-![Main Dashboard Screenshot](screenshots/main-dashboard.png)
-![User Profile Screenshot](screenshots/user-profile.png)
-![Data Tables Screenshot](screenshots/data-tables.png)
-![Pricing Page Screenshot](screenshots/pricing-page.png)
-![Login Page Screenshot](screenshots/login-page.png)
+- **Secure Login**: A secure login system that ensures authorized access.
 
 ## 🛠️ Technologies Used
 
