@@ -10,7 +10,8 @@ The design of this admin dashboard is inspired by Google's Material Design, ensu
 
 One of the key features of this admin dashboard is its impressive data visualization capabilities. Leveraging the power of Chart.js and various other libraries, the dashboard presents data in a meaningful and easily understandable format. From dynamic charts and graphs to interactive tables, users can quickly grasp insights and make informed decisions.
 
-![Data Visualization Screenshot](screenshots/data-visualization.png)
+<img width="547" alt="Screenshot 2024-04-05 at 10 00 35 PM" src="https://github.com/aahalani/admindashboard/assets/29179250/5d9e8b30-253d-4ff1-b2ab-b4cea8c9045a">
+
 
 ## 🚀 Features
 
